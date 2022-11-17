@@ -5,7 +5,6 @@ import os
 import math
 import numpy as np
 import tensorflow as tf
-import keras
 from keras.models import load_model
 from keras.preprocessing import image
 from werkzeug.utils import secure_filename
